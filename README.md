@@ -11,7 +11,7 @@ A model harness like Claude Code or Codex built in python, supports Anthropic na
 [![Checked with mypy](https://www.mypy-lang.org/static/mypy_badge.svg)](https://mypy-lang.org/)
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?Color=3776AB&labelColor=FFD43B)
 
-## Install
+## [Install](https://pypi.org/project/neptune-code)
 ```bash
 pip install neptune-code
 
